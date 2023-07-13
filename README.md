@@ -49,18 +49,11 @@
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalil004&hide_border=true&layout=compact" align="center" /></div>  
+### 📝 stats.  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kalil004&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=kalil004&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalil004&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
 
