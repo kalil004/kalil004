@@ -51,9 +51,9 @@
 
 
 ### 📝 stats.  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kalil004&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kalil004&theme=aura&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalil004&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalil004&theme=aura&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
