@@ -11,7 +11,7 @@
 </div>  
   
 
-- 📚 i'm studying systems analysis and development at [FATEC SJC](https://fatecsjc-prd.azurewebsites.net) since 2023, scheduled to graduate in 2025.  
+- 📚 studying systems analysis and development at [FATEC SJC](https://fatecsjc-prd.azurewebsites.net) since 2023, scheduled to graduate in 2025.  
   
 
 - 🧠 currently practicing my HTML and CSS knowledge, probably going to start learning Java and JavaScript soon.  
