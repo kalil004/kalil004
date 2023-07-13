@@ -1,6 +1,6 @@
 
 
-### ☔ greetings. my name i'm Kalil Alves and i'm a learning developer.
+### ☔ greetings. i'm Kalil Alves and i'm a learning developer.
   
 <div align="center">
 <img src="https://i.pinimg.com/originals/60/e7/93/60e793002c692f90b1caa3557749a089.gif" align="center" style="width: 100%" />
