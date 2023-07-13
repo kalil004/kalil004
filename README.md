@@ -51,7 +51,8 @@
 
 
 ### 📝 stats.  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kalil004&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kalil004&show_icons=true&count_private=true&hide_border=true" align="center"/>
+</div>  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalil004&hide_border=true&layout=compact" align="left" />  
 
@@ -61,7 +62,3 @@
 <img src="https://komarev.com/ghpvc/?username=kalil004&&style=flat-square" align="center" />
 </div>  
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
