@@ -14,7 +14,7 @@
 - 📚 studying systems analysis and development at [FATEC SJC](https://fatecsjc-prd.azurewebsites.net) since 2023, scheduled to graduate in 2025.  
   
 
-- 🧠 currently practicing my HTML, CSS and Java knowledge.
+- 🧠 currently practicing my HTML, CSS, Java and JavaScript knowledge.
   
 
 <br/>  
