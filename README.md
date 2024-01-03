@@ -27,7 +27,10 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black&color=7B68EE" alt="CSS3" height="40" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=black&color=7B68EE" alt="Python" height="40" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=black&color=7B68EE" alt="MySQL" height="40" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=black&color=7B68EE" alt="Flask" height="40" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=black&color=7B68EE" alt="Flask" height="40" /></a>
+<a href="https://www.java.com/pt-BR/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Java-00000F?style=for-the-badge&logo=openjdk&logoColor=black&color=7B68EE" alt="Java" height="40" /></a> 
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=black&color=7B68EE" alt="JavaScript" height="40" /></a> 
+<a href="https://react.dev" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=react&logoColor=black&color=7B68EE" alt="React" height="40" /></a> 
 </div>  
 
 <br/>  
