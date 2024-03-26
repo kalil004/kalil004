@@ -30,6 +30,9 @@
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=black&color=7B68EE" alt="Flask" height="40" /></a>
 <a href="https://www.java.com/pt-BR/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Java-00000F?style=for-the-badge&logo=openjdk&logoColor=black&color=7B68EE" alt="Java" height="40" /></a> 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=black&color=7B68EE" alt="JavaScript" height="40" /></a> 
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/TypeScript-00000F?style=for-the-badge&logo=typescript&logoColor=black&color=7B68EE" alt="TypeScript" height="40" /></a>
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Angular-00000F?style=for-the-badge&logo=angular&logoColor=black&color=7B68EE" alt="Angular" height="40" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Tailwind CSS-00000F?style=for-the-badge&logo=TailwindCSS&logoColor=black&color=7B68EE" alt="Tailwind CSS" height="40" /></a>
 <a href="https://react.dev" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=react&logoColor=black&color=7B68EE" alt="React" height="40" /></a> 
 </div>  
 
