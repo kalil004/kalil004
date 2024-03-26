@@ -1,6 +1,6 @@
 
 
-### ☔ greetings. i'm Kalil Alves and i'm a learning developer.
+### ☔ greetings. my name is Kalil Alves and i'm a learning developer.
   
 <div align="center">
 <img src="https://i.pinimg.com/originals/60/e7/93/60e793002c692f90b1caa3557749a089.gif" align="center" style="width: 100%" />
@@ -14,7 +14,7 @@
 - 📚 studying systems analysis and development at [FATEC SJC](https://fatecsjc-prd.azurewebsites.net) since 2023, scheduled to graduate in 2025.  
   
 
-- 🧠 currently practicing my HTML, CSS, Java and JavaScript knowledge.
+- 🧠 currently expanding my Typescript and React knowledge.
   
 
 <br/>  
