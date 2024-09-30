@@ -14,7 +14,7 @@
 - 📚 studying systems analysis and development at [FATEC SJC](https://fatecsjc-prd.azurewebsites.net) since 2023, scheduled to graduate in 2025.  
   
 
-- 🧠 currently expanding my Typescript and React knowledge.
+- 🧠 currently expanding my C#, Linux and MySQL knowledge.
   
 
 <br/>  
@@ -35,7 +35,8 @@
 <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Tailwind CSS-00000F?style=for-the-badge&logo=TailwindCSS&logoColor=black&color=7B68EE" alt="Tailwind CSS" height="40" /></a>
 <a href="https://react.dev" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=react&logoColor=black&color=7B68EE" alt="React" height="40" /></a>
 <a href="https://www.virtualbox.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/VirtualBox-00000F?style=for-the-badge&logo=VirtualBox&logoColor=black&color=7B68EE" alt="VirtualBox" height="40" /></a>
-<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/.net-00000F?style=for-the-badge&logo=dotnet&logoColor=black&color=7B68EE" alt="C#" height="40" /></a> 
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/.net-00000F?style=for-the-badge&logo=dotnet&logoColor=black&color=7B68EE" alt="C#" height="40" /></a>
+<a href=""https://www.linux.org/ target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/linux-00000F?style=for-the-badge&logo=linux&logoColor=black&color=7B68EE" alt="Linux" height="40" /></a> 
 </div>  
 
 <br/>  
