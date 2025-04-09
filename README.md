@@ -14,7 +14,7 @@
 - 📚 studying systems analysis and development at [FATEC SJC](https://fatecsjc-prd.azurewebsites.net) since 2023, scheduled to graduate in 2025.  
   
 
-- 🧠 currently expanding my C#, Linux and MySQL knowledge.
+- 🧠 currently expanding my MongoDB and React Native knowledge.
   
 
 <br/>  
