@@ -23,46 +23,26 @@
 
 ### 🎯skills.  
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black&color=7B68EE" alt="HTML5" height="40" /></a>  
-  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black&color=7B68EE" alt="HTML5" height="40" /></a>   
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black&color=7B68EE" alt="CSS3" height="40" /></a>  
-
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=black&color=7B68EE" alt="Python" height="40" /></a>  
-
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=black&color=7B68EE" alt="MySQL" height="40" /></a> 
-
 <a href="https://www.mongodb.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=black&color=7B68EE" alt="MongoDB" height="40" /></a> 
-
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=black&color=7B68EE" alt="Flask" height="40" /></a> 
-
 <a href="https://www.java.com/pt-BR/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Java-00000F?style=for-the-badge&logo=openjdk&logoColor=black&color=7B68EE" alt="Java" height="40" /></a> 
-
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=black&color=7B68EE" alt="JavaScript" height="40" /></a> 
-
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/TypeScript-00000F?style=for-the-badge&logo=typescript&logoColor=black&color=7B68EE" alt="TypeScript" height="40" /></a>
-
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Angular-00000F?style=for-the-badge&logo=angular&logoColor=black&color=7B68EE" alt="Angular" height="40" /></a>
-
 <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Tailwind CSS-00000F?style=for-the-badge&logo=TailwindCSS&logoColor=black&color=7B68EE" alt="Tailwind CSS" height="40" /></a>
-
 <a href="https://react.dev" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=react&logoColor=black&color=7B68EE" alt="React" height="40" /></a>
-
 <a href="https://www.virtualbox.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/VirtualBox-00000F?style=for-the-badge&logo=VirtualBox&logoColor=black&color=7B68EE" alt="VirtualBox" height="40" /></a>
-
 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/.net-00000F?style=for-the-badge&logo=dotnet&logoColor=black&color=7B68EE" alt="C#" height="40" /></a>
-
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/linux-00000F?style=for-the-badge&logo=linux&logoColor=black&color=7B68EE" alt="Linux" height="40" /></a> 
-
 <a href="https://vuejs.org" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/vue.js-00000F?style=for-the-badge&logo=vue.js&logoColor=black&color=7B68EE" alt="Vue.js" height="40" /></a> 
-
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/postgresql-00000F?style=for-the-badge&logo=postgresql&logoColor=black&color=7B68EE" alt="PostgreSQL" height="40" /></a>
-
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/springboot-00000F?style=for-the-badge&logo=springboot&logoColor=black&color=7B68EE" alt="Spring Boot" height="40" /></a>
-
 <a href="https://aws.amazon.com/pt/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/AWS-00000F?style=for-the-badge&logo=amazon-aws&logoColor=black&color=7B68EE" alt="AWS" height="40" /></a> 
-
 <a href="https://cloud.google.com/?hl=pt-BR" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/GCP-00000F?style=for-the-badge&logo=google-cloud&logoColor=black&color=7B68EE" alt="GCP" height="40" /></a>
-
 <a href="https://www.docker.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Docker-00000F?style=for-the-badge&logo=docker&logoColor=black&color=7B68EE" alt="Docker" height="40" /></a>
   
 </div>  
