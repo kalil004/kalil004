@@ -31,7 +31,7 @@
 
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=black&color=7B68EE" alt="MySQL" height="40" /></a> 
 
-<a href=""https://www.linux.org/ target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=black&color=7B68EE" alt="MongoDB" height="40" /></a> 
+<a href="https://www.mongodb.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=black&color=7B68EE" alt="MongoDB" height="40" /></a> 
 
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=black&color=7B68EE" alt="Flask" height="40" /></a> 
 
